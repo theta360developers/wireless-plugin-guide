@@ -93,7 +93,7 @@ Continue on if you do not have a green LED as shown in the picture below.
 There is a more detailed guide for Client Mode configure [here](https://community.theta360.guide/t/theta-v-client-mode-configuration-guide/2565?u=codetricity).
 
 Most routers have a mode called, "WPS", which stands for Wi-Fi Protected Setup. This will 
-enable you to connect your THETA V directly to your router with a few button presses.
+enable you to connect your THETA V directly to your router with a few button presses. 
 
 #### WPS Setup
 
@@ -106,7 +106,25 @@ On your Wi-Fi router, press the WPS button, usually on the back of the router.
 ![WPS Router](img/wps-button.png)
 
 The THETA V should now be configured for Client Mode. In the future, you can place the THETA V into 
-Client Mode by press the Wi-Fi button on the side of the camera.
+Client Mode by pressing the Wi-Fi button on the side of the camera.
+
+#### Find IP Address
+
+You will need the IP address of your camera to save the YouTube settings to your camera.
+The easiset way to get the IP address of your THETA V is to use the Ricoh mobile application.
+For this step, you need to connect your mobile phone to the camera with Client Mode (green LED).
+
+From the screen where you can see your camera images, go to the Settings gear in the upper right
+corner. Go to Camera Settings -> Camera versions -> IP Address.
+
+![mobile camera](img/mobile-camera.jpg)
+
+![camera settings](img/camera-settings.jpg)
+
+![mobile ip](img/mobile-ip.png)
+
+If you can't connect your mobile app to your camera with client mode, there is a separate article shows
+a number of other [ways to get the IP address of your camera](http://theta360.guide/blog/plugin/2018/08/01/find-theta-ip-address.html).
 
 #### Manual Setup
 
