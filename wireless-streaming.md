@@ -235,3 +235,8 @@ View from YouTube.
 View from other browsers on Internet.
 
 ![public view](img/public-view.png)
+
+## Additional Information
+
+[Plug-in User Guide](http://theta360.guide/plugin-user-guide/)
+[Plug-in Developer Guide](http://theta360.guide/plugin/)
