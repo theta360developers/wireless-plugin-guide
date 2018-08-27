@@ -216,7 +216,7 @@ red dot with the words, *Streaming*, next to it.
 
 You will also see a button that says, *Stop streaming*.
 
-![stream working](img/streaming-button.png)
+![stream working](img/stream-working.png)
 
 #### YouTube Control Room
 
