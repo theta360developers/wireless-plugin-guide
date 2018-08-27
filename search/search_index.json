@@ -1,0 +1,114 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "RICOH THETA V Wireless Live Streaming Guide\n\n\nThere are two parts to this guide:\n\n\n\n\nConfiguring THETA V prior to streaming event\n\n\nUsing THETA V to broadcast a streaming event\n\n\n\n\nQuickstart Summary\n\n\nConfiguration Summary\n\n\n\n\nLocate Wireless Live Streaming Plug-in in the THETA Store\n\n\nConnect THETA V to computer with USB cable\n\n\nInstall Plug-in into THETA V using THETA Desktop Application\n\n\nSet Wireless Live Streaming plug-in to launch\n\n\nReboot camera\n\n\nConfigure THETA V to connect to Internet using a Wi-Fi router or mobile phone hotspot\n\n\nConfigure YouTube Live 360\u00b0 Event with web browser\n\n\nPut THETA V into Plug-in mode\n\n\nSave YouTube Live Events server URL and stream key into THETA V\n\n\n\n\nUsage Summary\n\n\n\n\nConnect THETA V to Wi-Fi router or mobile phone hotspot\n\n\nStart broadcast\n\n\nOptional: verify broadcast is working properly\n\n\n\n\nStep-by-Step Configuration Guide\n\n\nLocate Plug-in in THETA Store\n\n\nGo to \nhttps://pluginstore.theta360.com/\n\n\n\n\nFind the Wireless Live Streaming plug-in.\n\n\nConnect your THETA V to your computer\n\n\nConnect the camera to your computer with a USB cable.\n\n\n\n\nYou must have the Ricoh Desktop Application installed on your \ncomputer.  If you do not have the desktop application installed,\ndownload it from \n\nhttps://theta360.com/en/support/download/\n\n\n\n\nInstall\n\n\nClick on the Install button.\n\n\n\n\nSet Wireless Live Streaming Plug-in to Launch\n\n\nWith your camera and the computer still connected with a USB cable, \nset the active Plug-in with the Desktop App. Under the file menu, select \n\nPlug-in management...\n.\n\n\n\n\nCheck the radio button for \n\nWireless Live Streaming\n.\n\n\n\n\nReboot camera\n\n\nTo be safe, reboot the camera. A reboot may not be needed in some cases, but\nif you have time, hold the power key down for 8 seconds. Once the camera\nhas turned off, press the power button again. \n\n\nBe careful not to do a short press of the power button, \nwhich places the camera into sleep mode and will not reboot the camera.\n\n\nConfigure THETA V to Connect to Internet\n\n\nThe objective of this step is to configure your\nTHETA V to connect to the Internet using Client Mode Wi-Fi.\nIn Client Mode, the Wi-Fi LED on the front of the camera is solid\ngreen.\n\n\nIf you have already configured your camera with Client Mode, you can \nskip this step.\n\n\nContinue on if you do not have a green LED as shown in the picture below.\n\n\n\n\nThere is a more detailed guide for Client Mode configure \nhere\n.\n\n\nMost routers have a mode called, \"WPS\", which stands for Wi-Fi Protected Setup. This will \nenable you to connect your THETA V directly to your router with a few button presses. \n\n\nWPS Setup\n\n\nHold your THETA V and press the Wi-Fi, Mode, and Shutter buttons down.\n\n\n\n\nOn your Wi-Fi router, press the WPS button, usually on the back of the router.\n\n\n\n\nThe THETA V should now be configured for Client Mode. In the future, you can place the THETA V into \nClient Mode by pressing the Wi-Fi button on the side of the camera.\n\n\nFind IP Address\n\n\nYou will need the IP address of your camera to save the YouTube settings to your camera.\nThe easiset way to get the IP address of your THETA V is to use the Ricoh mobile application.\nFor this step, you need to connect your mobile phone to the camera with Client Mode (green LED).\n\n\nFrom the screen where you can see your camera images, go to the Settings gear in the upper right\ncorner. Go to Camera Settings -\n Camera versions -\n IP Address.\n\n\n\n\n\n\n\n\nIf you can't connect your mobile app to your camera with client mode, there is a separate article shows\na number of other \nways to get the IP address of your camera\n.\n\n\nManual Setup\n\n\nIf you do not have access to WPS on your router or you are connecting \nthe camera to your mobile hotspot, please look at \nthis\n configuration\nguide for information on manual configuration.\n\n\nConfigure YouTube Live Event\n\n\nWith any web browser, configure YouTube Live Event. You must be logged into the\nYouTube account that you plan to use for live streaming.\n\n\nGo to YouTube Creator Studio.\n\n\n\n\nIn the left-hand pane, select LIVE STREAMING -\n Events.\n\n\n\n\nWith the pane for \nLive Event\n selected, click on the button for \n\nNew live event\n that is located in the upper right of your window.\n\n\n\n\nClick on the Advanced settings tab.\n\n\n\n\nCheck the box for \nThis live stream is 360\u00b0\n.\n\n\n\n\nSelect \nReusable stream key\n.\n\n\n\n\nCreate a new stream.\n\n\n\n\nYou will need the Stream Name and the Primary Server URL for the next step.\n\n\n\n\nPut THETA V into Plug-in Mode\n\n\nPress the lower mode button on the side for longer than two seconds.\n\n\nThe LED above the shutter button should be solid white.\n\n\nThe Wi-Fi LED should be solid green.\n\n\n\n\nSave YouTube Settings to Camera\n\n\nYou need to use a web browser to connect to the camera at:\n\n\nhttp://your-camera-ip:8888\n\n\nFor example, my camera was assigned an IP address of 192.168.2.100.\n\n\nI can access my camera's configuration at:\n\n\nhttp://192.168.2.100:8888\n\n\n\n\nCopy and paste the YouTube server and stream key into the boxes on the camera \nconfiguration tool.\n\n\n\n\nCongratualtions! You've finished the configuration of the \nWireless Live Streaming plug-in.\n\n\nTo start the stream, press the shutter button of the camera.\n\n\nTesting\n\n\nCamera Configuration Tool\n\n\nIn the camera configuration tool, you will see a \nred dot with the words, \nStreaming\n, next to it.\n\n\n\n\nYou will also see a button that says, \nStop streaming\n.\n\n\n\n\nYouTube Control Room\n\n\nPreview.\n\n\n\n\nWith the event live.\n\n\n\n\nView from YouTube.\n\n\n\n\nView from other browsers on Internet.\n\n\n\n\nAdditional Information\n\n\n\n\nPlug-in User Guide\n\n\nPlug-in Developer Guide", 
+            "title": "RICOH THETA V Wireless Live Streaming Guide"
+        }, 
+        {
+            "location": "/#ricoh-theta-v-wireless-live-streaming-guide", 
+            "text": "There are two parts to this guide:   Configuring THETA V prior to streaming event  Using THETA V to broadcast a streaming event", 
+            "title": "RICOH THETA V Wireless Live Streaming Guide"
+        }, 
+        {
+            "location": "/#quickstart-summary", 
+            "text": "", 
+            "title": "Quickstart Summary"
+        }, 
+        {
+            "location": "/#configuration-summary", 
+            "text": "Locate Wireless Live Streaming Plug-in in the THETA Store  Connect THETA V to computer with USB cable  Install Plug-in into THETA V using THETA Desktop Application  Set Wireless Live Streaming plug-in to launch  Reboot camera  Configure THETA V to connect to Internet using a Wi-Fi router or mobile phone hotspot  Configure YouTube Live 360\u00b0 Event with web browser  Put THETA V into Plug-in mode  Save YouTube Live Events server URL and stream key into THETA V", 
+            "title": "Configuration Summary"
+        }, 
+        {
+            "location": "/#usage-summary", 
+            "text": "Connect THETA V to Wi-Fi router or mobile phone hotspot  Start broadcast  Optional: verify broadcast is working properly", 
+            "title": "Usage Summary"
+        }, 
+        {
+            "location": "/#step-by-step-configuration-guide", 
+            "text": "", 
+            "title": "Step-by-Step Configuration Guide"
+        }, 
+        {
+            "location": "/#locate-plug-in-in-theta-store", 
+            "text": "Go to  https://pluginstore.theta360.com/   Find the Wireless Live Streaming plug-in.", 
+            "title": "Locate Plug-in in THETA Store"
+        }, 
+        {
+            "location": "/#connect-your-theta-v-to-your-computer", 
+            "text": "Connect the camera to your computer with a USB cable.   You must have the Ricoh Desktop Application installed on your \ncomputer.  If you do not have the desktop application installed,\ndownload it from  https://theta360.com/en/support/download/", 
+            "title": "Connect your THETA V to your computer"
+        }, 
+        {
+            "location": "/#install", 
+            "text": "Click on the Install button.", 
+            "title": "Install"
+        }, 
+        {
+            "location": "/#set-wireless-live-streaming-plug-in-to-launch", 
+            "text": "With your camera and the computer still connected with a USB cable, \nset the active Plug-in with the Desktop App. Under the file menu, select  Plug-in management... .   Check the radio button for  Wireless Live Streaming .", 
+            "title": "Set Wireless Live Streaming Plug-in to Launch"
+        }, 
+        {
+            "location": "/#reboot-camera", 
+            "text": "To be safe, reboot the camera. A reboot may not be needed in some cases, but\nif you have time, hold the power key down for 8 seconds. Once the camera\nhas turned off, press the power button again.   Be careful not to do a short press of the power button, \nwhich places the camera into sleep mode and will not reboot the camera.", 
+            "title": "Reboot camera"
+        }, 
+        {
+            "location": "/#configure-theta-v-to-connect-to-internet", 
+            "text": "The objective of this step is to configure your\nTHETA V to connect to the Internet using Client Mode Wi-Fi.\nIn Client Mode, the Wi-Fi LED on the front of the camera is solid\ngreen.  If you have already configured your camera with Client Mode, you can \nskip this step.  Continue on if you do not have a green LED as shown in the picture below.   There is a more detailed guide for Client Mode configure  here .  Most routers have a mode called, \"WPS\", which stands for Wi-Fi Protected Setup. This will \nenable you to connect your THETA V directly to your router with a few button presses.", 
+            "title": "Configure THETA V to Connect to Internet"
+        }, 
+        {
+            "location": "/#wps-setup", 
+            "text": "Hold your THETA V and press the Wi-Fi, Mode, and Shutter buttons down.   On your Wi-Fi router, press the WPS button, usually on the back of the router.   The THETA V should now be configured for Client Mode. In the future, you can place the THETA V into \nClient Mode by pressing the Wi-Fi button on the side of the camera.", 
+            "title": "WPS Setup"
+        }, 
+        {
+            "location": "/#find-ip-address", 
+            "text": "You will need the IP address of your camera to save the YouTube settings to your camera.\nThe easiset way to get the IP address of your THETA V is to use the Ricoh mobile application.\nFor this step, you need to connect your mobile phone to the camera with Client Mode (green LED).  From the screen where you can see your camera images, go to the Settings gear in the upper right\ncorner. Go to Camera Settings -  Camera versions -  IP Address.     If you can't connect your mobile app to your camera with client mode, there is a separate article shows\na number of other  ways to get the IP address of your camera .", 
+            "title": "Find IP Address"
+        }, 
+        {
+            "location": "/#manual-setup", 
+            "text": "If you do not have access to WPS on your router or you are connecting \nthe camera to your mobile hotspot, please look at  this  configuration\nguide for information on manual configuration.", 
+            "title": "Manual Setup"
+        }, 
+        {
+            "location": "/#configure-youtube-live-event", 
+            "text": "With any web browser, configure YouTube Live Event. You must be logged into the\nYouTube account that you plan to use for live streaming.  Go to YouTube Creator Studio.   In the left-hand pane, select LIVE STREAMING -  Events.   With the pane for  Live Event  selected, click on the button for  New live event  that is located in the upper right of your window.   Click on the Advanced settings tab.   Check the box for  This live stream is 360\u00b0 .   Select  Reusable stream key .   Create a new stream.   You will need the Stream Name and the Primary Server URL for the next step.", 
+            "title": "Configure YouTube Live Event"
+        }, 
+        {
+            "location": "/#put-theta-v-into-plug-in-mode", 
+            "text": "Press the lower mode button on the side for longer than two seconds.  The LED above the shutter button should be solid white.  The Wi-Fi LED should be solid green.", 
+            "title": "Put THETA V into Plug-in Mode"
+        }, 
+        {
+            "location": "/#save-youtube-settings-to-camera", 
+            "text": "You need to use a web browser to connect to the camera at:  http://your-camera-ip:8888  For example, my camera was assigned an IP address of 192.168.2.100.  I can access my camera's configuration at:  http://192.168.2.100:8888   Copy and paste the YouTube server and stream key into the boxes on the camera \nconfiguration tool.   Congratualtions! You've finished the configuration of the \nWireless Live Streaming plug-in.  To start the stream, press the shutter button of the camera.", 
+            "title": "Save YouTube Settings to Camera"
+        }, 
+        {
+            "location": "/#testing", 
+            "text": "", 
+            "title": "Testing"
+        }, 
+        {
+            "location": "/#camera-configuration-tool", 
+            "text": "In the camera configuration tool, you will see a \nred dot with the words,  Streaming , next to it.   You will also see a button that says,  Stop streaming .", 
+            "title": "Camera Configuration Tool"
+        }, 
+        {
+            "location": "/#youtube-control-room", 
+            "text": "Preview.   With the event live.   View from YouTube.   View from other browsers on Internet.", 
+            "title": "YouTube Control Room"
+        }, 
+        {
+            "location": "/#additional-information", 
+            "text": "Plug-in User Guide  Plug-in Developer Guide", 
+            "title": "Additional Information"
+        }
+    ]
+}
