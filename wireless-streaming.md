@@ -16,6 +16,7 @@ There are two parts to this guide:
 1. Reboot camera
 1. Configure THETA V to connect to Internet using a Wi-Fi router or mobile phone hotspot
 1. Configure YouTube Live 360° Event with web browser
+1. Put THETA V into Plug-in mode
 1. Save YouTube Live Events server URL and stream key into THETA V
 
 ## Usage Summary
@@ -132,3 +133,105 @@ If you do not have access to WPS on your router or you are connecting
 the camera to your mobile hotspot, please look at [this]((https://community.theta360.guide/t/theta-v-client-mode-configuration-guide/2565?u=codetricity)) configuration
 guide for information on manual configuration.
 
+### Configure YouTube Live Event
+
+With any web browser, configure YouTube Live Event. You must be logged into the
+YouTube account that you plan to use for live streaming.
+
+Go to YouTube Creator Studio.
+
+![Creator Studio](img/creator-studio.png)
+
+In the left-hand pane, select LIVE STREAMING -> Events.
+
+![Live Event](img/live-event.png)
+
+With the pane for *Live Event* selected, click on the button for 
+*New live event* that is located in the upper right of your window.
+
+![New Live Event](img/new-live-event.png)
+
+Click on the Advanced settings tab.
+
+![Advanced Settings](img/advanced-settings.png)
+
+Check the box for *This live stream is 360°*.
+
+![360 stream](img/360-event.png)
+
+Select *Reusable stream key*.
+
+![stream key](img/stream-key.png)
+
+Create a new stream.
+
+![new stream](img/new-stream.png)
+
+You will need the Stream Name and the Primary Server URL for the next step.
+
+![server info](img/server-info.png)
+
+### Put THETA V into Plug-in Mode
+
+Press the lower mode button on the side for longer than two seconds.
+
+The LED above the shutter button should be solid white.
+
+The Wi-Fi LED should be solid green.
+
+![plug-in mode](img/plugin-mode.png)
+
+### Save YouTube Settings to Camera
+
+You need to use a web browser to connect to the camera at:
+
+http://your-camera-ip:8888
+
+For example, my camera was assigned an IP address of 192.168.2.100.
+
+I can access my camera's configuration at:
+
+http://192.168.2.100:8888
+
+![streaming server](img/streaming-server.png)
+
+Copy and paste the YouTube server and stream key into the boxes on the camera 
+configuration tool.
+
+![plug-in config](img/plug-in-config.png)
+
+Congratualtions! You've finished the configuration of the 
+Wireless Live Streaming plug-in.
+
+To start the stream, press the shutter button of the camera.
+
+### Testing
+
+#### Camera Configuration Tool
+
+In the camera configuration tool, you will see a 
+red dot with the words, *Streaming*, next to it.
+
+![streaming button](img/streaming-button.png)
+
+You will also see a button that says, *Stop streaming*.
+
+![stream working](img/streaming-button.png)
+
+#### YouTube Control Room
+
+Preview.
+
+![YouTube Control Room](img/youtube-control-room.png)
+
+With the event live.
+
+![YouTube Site](img/youtube-site.png)
+
+View from YouTube.
+
+![View on YouTube](img/youtube-view.png)
+
+View from other browsers on Internet.
+
+![public view](img/public-view.png)
