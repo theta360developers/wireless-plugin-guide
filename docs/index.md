@@ -104,7 +104,7 @@ Hold your THETA V and press the Wi-Fi, Mode, and Shutter buttons down.
 
 On your Wi-Fi router, press the WPS button, usually on the back of the router.
 
-![WPS Router](img/wps-button.png)
+![WPS Router](img/wps-button.jpg)
 
 The THETA V should now be configured for Client Mode. In the future, you can place the THETA V into 
 Client Mode by pressing the Wi-Fi button on the side of the camera.
@@ -185,13 +185,13 @@ The Wi-Fi LED should be solid green.
 
 You need to use a web browser to connect to the camera at:
 
-http://your-camera-ip:8888
+  http://your-camera-ip:8888
 
 For example, my camera was assigned an IP address of 192.168.2.100.
 
 I can access my camera's configuration at:
 
-http://192.168.2.100:8888
+  http://192.168.2.100:8888
 
 ![streaming server](img/streaming-server.png)
 
@@ -200,7 +200,7 @@ configuration tool.
 
 ![plug-in config](img/plug-in-config.png)
 
-Congratualtions! You've finished the configuration of the 
+Congratulations! You've finished the configuration of the 
 Wireless Live Streaming plug-in.
 
 To start the stream, press the shutter button of the camera.
