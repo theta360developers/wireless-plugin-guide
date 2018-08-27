@@ -1,0 +1,31 @@
+site_name: RICOH THETA V Wireless Live Streaming Guide
+site_url: 
+site_description: Wireless Live Streaming to YouTube with RICOH THETA V
+repo_url: https://github.com/theta360developers/wireless-plugin-guide
+repo_name: 
+site_author: Craig Oda
+google_analytics: ['UA-73311422-1', 'auto']
+theme_dir: theme/material
+theme: 
+  name: material
+  palette:
+    primary: 'light green'
+    accent: 'lime'
+  favicon: assets/images/favicon.ico
+  logo: assets/images/logo.png
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/theta360developers'
+    - type: 'twitter'
+      link: 'https://twitter.com/theta360dev'
+    - type: 'facebook'
+      link: 'https://www.facebook.com/theta360guide/'
+
+nav:
+  - Home: index.md
+    
+
+
+
